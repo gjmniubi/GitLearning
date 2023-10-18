@@ -1,3 +1,4 @@
 WorkerA changed!
 Second changerd!
 Third changed!
+changed in Idea
